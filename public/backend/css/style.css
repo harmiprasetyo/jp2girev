@@ -1,0 +1,18 @@
+.wrapper .page-wrap .app-sidebar.colored .sidebar-content {
+
+    background-color: #333E52;
+
+}
+
+.wrapper .page-wrap .app-sidebar.colored .sidebar-content .nav-container .navigation-main .nav-item.open::after,
+.wrapper .page-wrap .app-sidebar.colored .sidebar-content .nav-container .navigation-main .nav-item.active::after {
+
+    background-color: #1B80B2;
+
+}
+
+.wrapper .page-wrap .app-sidebar .sidebar-content .nav-container .navigation-main .nav-item.has-sub .submenu-content .menu-item.active {
+
+    color: #fff !important;
+    background-color: #1B80B2 !important;
+}
